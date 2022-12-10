@@ -18,4 +18,6 @@
 ## Подключение и отправка на сервер GitHub
 
 * *git clone /addres_name/* - склонировать репозиторий в текущую папку на компьютере
-* *git push --set-upstream origin master* - отправить изменения на удаленный репозиторий **GitHub**
+* *git branch /branch_name/* - создать побочную ветку
+* *git checkout /branch_name/* - переключаться между коммитами или побочными ветками
+* *git push --set-upstream origin master*q - отправить изменения на удаленный репозиторий **GitHub**
